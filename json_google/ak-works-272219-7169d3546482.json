@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ak-works-272219",
+  "private_key_id": "7169d35464822e66510e4c232030164f7826bba3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMKxpJJ7TIsFgf\nsRD0SpB/4Zl+ekj2KDKUh2fp9DYx87F6HRc1t+MAN2c7WOkYMHFGchki3uh6ZJfc\n3qtrQ27mOHvWLGYArZJEArAZ5OowxHAcoQy8vkO2mcYOs1lFW2Ja9PrbeEDYeK7G\nWrVhuDHsQstOFdxs3kJZiCyRFV0u5XXIE74NVD1n7nlN4Cjgs5yiBo60IneH5lxX\n4YgE+E27by3PlAiBZOEFkvmmx+zvlwfeKlBhGYqb28+OxW2x8DKKhI1eSVhx3+vT\n/3J386yer1Ev9Y4h2AzufPhOKboDJfGkQ2TSzsS6tsS2k2Qgwo5N9Cy53MJ9RuHr\nVsbzHgcjAgMBAAECggEAUqNtn8elCogqGyXBzYdyxngrd0CK0KvDkU/fVRhGaWCQ\naPNmZhVYmclTDPf3XRWae9+J4g3kfknCGCG+s4tXU3LwWOeen86hgcquucRosDWK\nhWQAclL2uG20d1XLn+GVxWgcM4IQiS4L2/hyKyvxdQYyIRiDIEO0CmYuV8kUbvqz\nSC22zpUNC/GJfv8ItRNKezLLv4WKcCTLnkcvB/YBG3d2KPoXi3E/HDph1ia4aLxu\nf5/wwbf5AFB5NbJfS2lN3vyqadGE2eYyOJ4Bv3xQB0tECPJPoPScTYnvQAPBE/gJ\nSyfplPUiBQLvaKOofSm8JaVW2Z7NR8gby6oRjsEqCQKBgQDtEqNAGjLOaEZF/sKx\nwEy8OqpI3KJ4vEXnlAmO1sPhALEifUKS7VgHWTHO7de4plexmPMp9kuB8y+2Zh+R\n5UrdOsGp8OnlfHhLuLcfdlOTa4us/cBs5lXRBYovlk6qRLzC0D0dO3GDxWRGouW6\nf79YzkNjZp2iNQW8u97g/mwmSwKBgQDcd/Rl9IWMiiJuql9Am8qO8mfKnkXxFbQY\n/twYl5rXp6v/Azza0uIdydamPeLbUQXJlhvAt2BU9uMGcIaUpsj69WpoGwdXUxV8\nps9+XfyxM9dEZqVwfcXr9j6qOO3nVYQZ4SSISn6Baz6x3eTr40M6mbCUN7YrNMBd\nfqnc3db7iQKBgQCEtSApbADwxjJAUGIQOoM6AuT7sHZKe6nt/lJzYQl5VHfTxKaV\ntMLIKkfVfBJ7zLHeOq4z2SlfbxBQXE5jzyTfPlrWlIN58Pkt+hKYTBZwuY0Qo2Mq\nEq4LObym8s7KRXwc2ZC8YmAi0UZWvC04/vXP8naKmBC5klDJ26jh7coAjQKBgBLx\nX5dvBhaIO+MkUmDbwfC8VTyskrffNIU9SK34QL6s0nNr1Mu8eN80W3QXNym+8W9b\nrXDGkMlcGS+RdY7KMdSWR5lAUUYohl0afBOQgci7+pAO/cIHnHzkwIehspdA2sPa\ne2gWdn4qN83SkfvOoBUl5W0myEk4FBs0aeXnTbR5AoGBAKkSHl379sLYqC8xVv7E\nK1YVisva1m0RHmf+hT9bs6FrRFGZFHdVh5RJ555tZpG0VUSsbk7YiG3xvgXYhMD3\n1aXKBlw38r2Vi2daE/N3v2TbzqqfgmKxNINXyZsDLakGZu8o+pf3/Q1+vidV/Bfq\nhReJRX7aoohZJSnIj0gciQiC\n-----END PRIVATE KEY-----\n",
+  "client_email": "magma-android-developer-test@ak-works-272219.iam.gserviceaccount.com",
+  "client_id": "108750460212698343603",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/magma-android-developer-test%40ak-works-272219.iam.gserviceaccount.com"
+}
